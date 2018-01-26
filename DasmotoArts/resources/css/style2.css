@@ -1,0 +1,41 @@
+/* Correction of the issues appointed */
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+  text-align: left;
+}
+
+span {
+  color: blue;
+}
+
+.helvetica {
+  font-family: Helvetica;
+}
+
+.bold {
+ font-weight: bold;
+}
+
+.background {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
